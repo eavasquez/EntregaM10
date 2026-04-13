@@ -1,0 +1,15 @@
+
+"Hola, soy Erwin Vasquez, un desarrollador backend radicado en Concepción con experiencia construyendo APIs y optimizando bases de datos.Me especializo en el ecosistema JavaScript, principalmente trabajando con Node.js, Express y Sequelize. Recientemente desarrollé un sistema de gestión desde cero donde logré reducir los tiempos de consulta estructurando eficientemente los modelos relacionales y aplicando buenas prácticas de código.Lo que me diferencia es mi enfoque integral hacia la optimización: tengo una mentalidad analítica muy fuerte y disfruto tanto afinando consultas SQL para que un servidor responda en milisegundos, como armando y optimizando el hardware físico desde donde programo. Esa curiosidad técnica me permite encontrar cuellos de botella rápidamente.Me encantaría aportar esta capacidad de resolución de problemas y mi compromiso con el código limpio al equipo de desarrollo de su empresa."
+
+
+
+3. PLUS: Propuesta de publicación profesional para LinkedIn 
+
+Título: De armar PCs a estructurar APIs: Por qué la optimización es un estilo de vida
+
+🚀 Cuerpo del texto:
+Siempre he sido el tipo de persona que disfruta desarmar algo para entender cómo funciona y ver cómo puede ir más rápido. Hace poco, mientras ajustaba las frecuencias de mi procesador y configuraba mi tarjeta gráfica para exprimir al máximo los FPS, me di cuenta de algo: optimizar hardware y desarrollar backend son dos caras de la misma moneda.En el desarrollo de software, especialmente cuando trabajamos con bases de datos relacionales y Node.js, es muy fácil escribir una consulta que "simplemente funcione". Pero cuando empiezas a analizar los tiempos de respuesta y notas el temido problema de las consultas N+1, la mentalidad de optimización entra en juego.Aprender a usar herramientas como Eager Loading en Sequelize fue para mí el equivalente en código a cambiar un disco mecánico por un NVMe. La diferencia de rendimiento es brutal. En mi último proyecto, replantear la forma en que el servidor se comunicaba con la base de datos bajó el tiempo de carga drásticamente.Al final del día, ya sea ajustando los componentes de mi setup o refactorizando un middleware en Express, la satisfacción es la misma: hacer que los sistemas sean más eficientes, escalables y rápidos.¿Alguien más en la red siente que sus hobbies tecnológicos han moldeado directamente su forma de programar? ¡Los leo!
+
+
+👇Hashtags:
+#BackendDevelopment #NodeJS #Optimizacion #DesarrolloDeSoftware #MiPrimerTrabajoIT
